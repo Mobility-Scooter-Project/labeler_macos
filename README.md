@@ -1,4 +1,4 @@
-# Instruction for Labeler on MacOs
+# Instruction for Labeler on MacOS
 ## Install Anaconda
 - https://www.anaconda.com/
 ## Open up terminal on Mac
