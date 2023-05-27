@@ -28,7 +28,7 @@ mkdir video data
 ```
 
 ## Put videos in `video` folder
-## Run the app
+## Run the app in terminal
 ```
 cd ~/Desktop/labeler_macos & conda activate labeler & python GUI.py
 ```
