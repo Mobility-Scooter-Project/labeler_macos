@@ -1,7 +1,7 @@
 # Instruction
 ## Install Anaconda
-## [command+space], type terminal, enter
-## run the following commands one by one until the previous command finishes
+## Press [command+space], Type 'terminal', Press [enter]
+## Run the following commands one by one
 ```
 cd ~/Desktop
 ```
@@ -27,8 +27,8 @@ pip install -r requirements.txt
 mkdir video data
 ```
 
-## put videos in `video` folder
-## run the app
+## Put videos in `video` folder
+## Run the app
 ```
 cd ~/Desktop/labeler_macos
 ```
@@ -38,4 +38,4 @@ conda activate labeler
 ```
 python GUI.py
 ```
-## labels will be saved in `label` folder
+## Labels will be saved in `label` folder
