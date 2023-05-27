@@ -30,12 +30,6 @@ mkdir video data
 ## Put videos in `video` folder
 ## Run the app
 ```
-cd ~/Desktop/labeler_macos
-```
-```
-conda activate labeler
-```
-```
-python GUI.py
+cd ~/Desktop/labeler_macos & conda activate labeler & python GUI.py
 ```
 ## Labels will be saved in `label` folder
