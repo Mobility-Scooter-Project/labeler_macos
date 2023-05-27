@@ -12,10 +12,10 @@ conda create --name labeler python=3.9 -y
 conda activate labeler
 ```
 ```
-git clone https://github.com/huangruoqi/computer_vision_learning.git
+git clone https://github.com/huangruoqi/labeler_macos.git
 ```
 ```
-cd computer_vision_learning
+cd labeler_macos
 ```
 ```
 git submodule update --init --recursive
@@ -24,3 +24,16 @@ git submodule update --init --recursive
 pip install -r requirements.txt
 mkdir video data
 ```
+
+## put videos in `video` folder
+## run the app
+```
+cd ~/Desktop/labeler_macos
+```
+```
+conda activate labeler
+```
+```
+python GUI.py
+```
+## labels will be saved in `label` folder
