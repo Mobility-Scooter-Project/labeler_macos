@@ -26,18 +26,13 @@ rm labeler_macos.zip
 cd labeler_macos
 ```
 ```
-git submodule update --init --recursive
-```
-```
 pip install -r ./assets/requirements.txt
 ```
-```
-mkdir video data
-```
+* After these commands, labeler is setup on `Desktop/labeler_macos`
 
-## Put videos in `video` folder
+## Put videos in `labeler_macos/video` folder
 ## Run the app in terminal
 ```
 cd ~/Desktop/labeler_macos & conda activate labeler & python GUI.py
 ```
-## Labels will be saved in `data` folder
+## Labels will be saved in `labeler_macos/data` folder
