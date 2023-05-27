@@ -1,6 +1,6 @@
 # Instruction
 ## Install Anaconda
-## [command+<space>], type terminal, <enter>
+## [command+space], type terminal, enter
 ## run the following commands one by one until the previous command finishes
 ```
 cd ~/Desktop
@@ -22,6 +22,8 @@ git submodule update --init --recursive
 ```
 ```
 pip install -r requirements.txt
+```
+```
 mkdir video data
 ```
 
