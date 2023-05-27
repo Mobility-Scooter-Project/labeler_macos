@@ -21,7 +21,7 @@ cd labeler_macos
 git submodule update --init --recursive
 ```
 ```
-pip install -r requirements.txt
+pip install -r ./assets/requirements.txt
 ```
 ```
 mkdir video data
@@ -32,4 +32,4 @@ mkdir video data
 ```
 cd ~/Desktop/labeler_macos & conda activate labeler & python GUI.py
 ```
-## Labels will be saved in `label` folder
+## Labels will be saved in `data` folder
