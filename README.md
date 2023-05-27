@@ -3,7 +3,7 @@
 - https://www.anaconda.com/
 ## Open up terminal on Mac
 - Press [command+space], Type 'terminal', Press [enter]
-## Run the following commands one by one
+## Run the following commands in terminal one by one
 ```
 cd ~/Desktop
 ```
