@@ -14,7 +14,13 @@ conda create --name labeler python=3.9 -y
 conda activate labeler
 ```
 ```
-git clone https://github.com/huangruoqi/labeler_macos.git
+curl -L https://github.com/huangruoqi/labeler_macos/releases/download/v0.2/labeler_macos.zip > labeler_macos.zip
+```
+```
+unzip labeler_macos.zip
+```
+```
+rm labeler_macos.zip
 ```
 ```
 cd labeler_macos
