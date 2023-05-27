@@ -1,6 +1,8 @@
 # Instruction
 ## Install Anaconda
-## Press [command+space], Type 'terminal', Press [enter]
+- https://www.anaconda.com/
+## Open up terminal on Mac
+- Press [command+space], Type 'terminal', Press [enter]
 ## Run the following commands one by one
 ```
 cd ~/Desktop
