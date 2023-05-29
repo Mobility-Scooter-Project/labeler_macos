@@ -18,6 +18,9 @@ git clone https://github.com/huangruoqi/labeler_macos.git
 cd labeler_macos
 ```
 ```
+chmod a+x run.sh
+```
+```
 git submodule update --init --recursive
 ```
 ```
@@ -29,7 +32,5 @@ mkdir video data
 
 ## Put videos in `video` folder
 ## Run the app
-```
-cd ~/Desktop/labeler_macos & conda activate labeler & python GUI.py
-```
+* **Double Click `run.sh`**
 ## Labels will be saved in `data` folder
