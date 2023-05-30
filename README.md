@@ -14,7 +14,7 @@ conda create --name labeler python=3.9 -y
 conda activate labeler
 ```
 ```
-curl -L https://github.com/huangruoqi/labeler_macos/releases/download/v0.2.1/labeler_macos.zip > labeler_macos.zip
+curl -L https://github.com/huangruoqi/labeler_macos/releases/download/v0.2.2/labeler_macos.zip > labeler_macos.zip
 ```
 ```
 unzip labeler_macos.zip
