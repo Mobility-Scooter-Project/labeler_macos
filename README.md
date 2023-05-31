@@ -50,4 +50,5 @@ pip install -r ./assets/requirements.txt
 ## Put videos in `labeler_macos/video` folder
 ## Run the app
 * **Double Click `run.sh`**
+* App manual: https://github.com/Mobility-Scooter-Project/labeler/releases/tag/v0.2.4
 ## Labels will be saved in `labeler_macos/data` folder
